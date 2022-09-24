@@ -20,20 +20,25 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - name: Checkout
-        uses: actions/checkout@v3
-        with:
-          token: ${{ secrets.INTERSECTBOT_ACCESS_TOKEN }}
+      - name: Determine target _upgrade branch
+        run: INTERSECT_TARGET_BRANCH=${GITHUB_REF_NAME/_full/_upgrade}
 
       - name: test
         run: env
 
-      - name: Checkout _upgrade branch
-        run: git checkout --progress --force -B ${GITHUB_REF_NAME/_full/_upgrade} refs/remotes/origin/${GITHUB_REF_NAME/_full/_upgrade}
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          ref: ${{ env.INTERSECT_TARGET_BRANCH }}
+          token: ${{ secrets.INTERSECTBOT_ACCESS_TOKEN }}
+
+#       - name: Checkout _upgrade branch
+#         uses: actions/checkout@v3
+#         run: git checkout --progress --force -B ${GITHUB_REF_NAME/_full/_upgrade} refs/remotes/origin/${GITHUB_REF_NAME/_full/_upgrade}
 
       - name: Checkout modified files from _full branch
-        run: git checkout origin/main_full -- $(git diff --name-only b3bfe6d663d6aa3641e98ccde9c5600ef819c95a $GITHUB_SHA | tr '\n' ' ')
+        run: git checkout $GITHUB_SHA -- $(git diff --name-only b3bfe6d663d6aa3641e98ccde9c5600ef819c95a $GITHUB_SHA | tr '\n' ' ')
 
       # - name: Generate commit
       #   uses: stefanzweifel/git-auto-commit-action@v4
