@@ -26,11 +26,11 @@ jobs:
         with:
           token: ${{ secrets.INTERSECTBOT_ACCESS_TOKEN }}
 
-      - name: Checkout upgrade branch
-        run: git checkout ${GITHUB_REF_NAME/_full/_upgrade}
-
       - name: test
         run: echo ${{ env.GITHUB_SHA }}
+
+      - name: Checkout upgrade branch
+        run: git checkout ${GITHUB_REF_NAME/_full/_upgrade}
 
       # - name: Checkout modified files in full branch
       #   run: git checkout lodicolo/main_full -- $(git diff --name-only ${{ env.GITHUB_SHA }}~1 ${{ env.GITHUB_SHA }} | tr '\n' ' ')
