@@ -29,15 +29,18 @@ jobs:
       - name: Checkout upgrade branch
         run: git checkout ${GITHUB_REF_NAME/_full/_upgrade}
 
-      - name: Checkout modified files in full branch
-        run: git checkout lodicolo/main_full -- $(git diff --name-only ${{ env.GITHUB_SHA }}~3 ${{ env.GITHUB_SHA }} | tr '\n' ' ')
+      - name: test
+        run: echo ${{ env.GITHUB_SHA }}
 
-      - name: Generate commit
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          add_options: '-A'
-          commit_message: "bot: automatically generating upgrade commit for ${{ env.GITHUB_SHA }}"
-          commit_options: '--no-verify --signoff'
-          commit_user_name: Intersect Bot
-          commit_user_email: bot@ascension.dev
-          skip_fetch: true
+      # - name: Checkout modified files in full branch
+      #   run: git checkout lodicolo/main_full -- $(git diff --name-only ${{ env.GITHUB_SHA }}~1 ${{ env.GITHUB_SHA }} | tr '\n' ' ')
+
+      # - name: Generate commit
+      #   uses: stefanzweifel/git-auto-commit-action@v4
+      #   with:
+      #     add_options: '-A'
+      #     commit_message: "bot: automatically generating upgrade commit for ${{ env.GITHUB_SHA }}"
+      #     commit_options: '--no-verify --signoff'
+      #     commit_user_name: Intersect Bot
+      #     commit_user_email: bot@ascension.dev
+      #     skip_fetch: true
