@@ -29,10 +29,10 @@ jobs:
       - name: test
         run: env
 
-      - name: Checkout upgrade branch
-        run: git checkout --track origin/${GITHUB_REF_NAME/_full/_upgrade}
+      - name: Checkout _upgrade branch
+        run: git checkout --progress --force -B ${GITHUB_REF_NAME/_full/_upgrade} refs/remotes/origin/${GITHUB_REF_NAME/_full/_upgrade}
 
-      - name: Checkout modified files in full branch
+      - name: Checkout modified files from _full branch
         run: git checkout origin/main_full -- $(git diff --name-only b3bfe6d663d6aa3641e98ccde9c5600ef819c95a $GITHUB_SHA | tr '\n' ' ')
 
       # - name: Generate commit
