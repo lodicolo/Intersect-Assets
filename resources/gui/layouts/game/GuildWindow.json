@@ -492,7 +492,9 @@
         "Font": "sourcesansproblack,10",
         "ItemHoverSound": "octave-tap-resonant.wav",
         "ItemClickSound": "octave-tap-warm.wav",
-        "ItemRightClickSound": "octave-beep-tapped.wav"
+        "ItemRightClickSound": "octave-beep-tapped.wav",
+        "TextColor": "255,255,255,255",
+        "TextColorOverride": "0,0,0,0"
       },
       "InviteButton": {
         "Bounds": "194,6,18,18",

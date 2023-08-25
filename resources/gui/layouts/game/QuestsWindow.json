@@ -434,7 +434,9 @@
         "Font": "sourcesansproblack,10",
         "ItemHoverSound": "octave-tap-resonant.wav",
         "ItemClickSound": "octave-tap-warm.wav",
-        "ItemRightClickSound": null
+        "ItemRightClickSound": null,
+        "TextColor": "255,255,255,255",
+        "TextColorOverride": "0,0,0,0"
       },
       "QuestTitle": {
         "Bounds": "-4,6,228,32",
