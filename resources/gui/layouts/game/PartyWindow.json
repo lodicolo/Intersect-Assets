@@ -1,5 +1,5 @@
 {
-  "Bounds": "1140,370,220,338",
+  "Bounds": "1374,502,220,338",
   "Padding": "0,0,0,0",
   "AlignmentEdgeDistances": "0,0,6,60",
   "AlignmentTransform": "0,0",
@@ -51,7 +51,7 @@
     "MouseDownSound": ""
   },
   "Title": {
-    "Bounds": "0,0,85,31",
+    "Bounds": "0,0,85,34",
     "Padding": "40,7,4,4",
     "AlignmentEdgeDistances": "0,0,0,0",
     "AlignmentTransform": "0,0",
@@ -193,7 +193,7 @@
         "TextScale": 1.0
       },
       "MemberName0": {
-        "Bounds": "10,5,1,16",
+        "Bounds": "10,5,1,19",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -273,7 +273,7 @@
         }
       },
       "HealthLabel0": {
-        "Bounds": "10,23,21,16",
+        "Bounds": "10,23,21,19",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -383,7 +383,7 @@
         }
       },
       "ManaLabel0": {
-        "Bounds": "10,45,22,16",
+        "Bounds": "10,45,22,19",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -443,7 +443,7 @@
         "TextScale": 1.0
       },
       "MemberName1": {
-        "Bounds": "10,71,1,16",
+        "Bounds": "10,71,1,19",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -523,7 +523,7 @@
         }
       },
       "HealthLabel1": {
-        "Bounds": "10,89,21,16",
+        "Bounds": "10,89,21,19",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -633,7 +633,7 @@
         }
       },
       "ManaLabel1": {
-        "Bounds": "10,109,22,16",
+        "Bounds": "10,109,22,19",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -731,7 +731,7 @@
         "ClickSound": ""
       },
       "MemberName2": {
-        "Bounds": "10,137,1,16",
+        "Bounds": "10,137,1,19",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -811,7 +811,7 @@
         }
       },
       "HealthLabel2": {
-        "Bounds": "10,155,21,16",
+        "Bounds": "10,155,21,19",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -921,7 +921,7 @@
         }
       },
       "ManaLabel2": {
-        "Bounds": "10,175,22,16",
+        "Bounds": "10,175,22,19",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -1019,7 +1019,7 @@
         "ClickSound": ""
       },
       "MemberName3": {
-        "Bounds": "10,203,1,16",
+        "Bounds": "10,203,1,19",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -1099,7 +1099,7 @@
         }
       },
       "HealthLabel3": {
-        "Bounds": "10,221,21,16",
+        "Bounds": "10,221,21,19",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -1209,7 +1209,7 @@
         }
       },
       "ManaLabel3": {
-        "Bounds": "10,241,22,16",
+        "Bounds": "10,241,22,19",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",

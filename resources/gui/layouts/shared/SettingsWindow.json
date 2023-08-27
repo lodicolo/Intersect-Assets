@@ -1,5 +1,5 @@
 {
-  "Bounds": "734,467,452,226",
+  "Bounds": "574,377,452,226",
   "Padding": "0,0,0,0",
   "AlignmentEdgeDistances": "0,0,0,0",
   "AlignmentTransform": "0,40",
@@ -5253,7 +5253,7 @@
         "ToolTipTextColor": "",
         "Children": {
           "ControlMoveUpLabel": {
-            "Bounds": "14,11,21,16",
+            "Bounds": "14,11,21,19",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",
@@ -5359,7 +5359,7 @@
             "ClickSound": ""
           },
           "ControlMoveLeftLabel": {
-            "Bounds": "14,43,28,16",
+            "Bounds": "14,43,28,19",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",
@@ -5465,7 +5465,7 @@
             "ClickSound": ""
           },
           "ControlMoveDownLabel": {
-            "Bounds": "14,75,37,16",
+            "Bounds": "14,75,39,19",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",
@@ -5571,7 +5571,7 @@
             "ClickSound": ""
           },
           "ControlMoveRightLabel": {
-            "Bounds": "14,107,36,16",
+            "Bounds": "14,107,36,19",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",
@@ -5677,7 +5677,7 @@
             "ClickSound": ""
           },
           "ControlAttackInteractLabel": {
-            "Bounds": "14,139,93,16",
+            "Bounds": "14,139,95,19",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",
@@ -5783,7 +5783,7 @@
             "ClickSound": ""
           },
           "ControlBlockLabel": {
-            "Bounds": "14,171,36,16",
+            "Bounds": "14,171,37,19",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",
@@ -5889,7 +5889,7 @@
             "ClickSound": ""
           },
           "ControlAutoTargetLabel": {
-            "Bounds": "14,203,73,16",
+            "Bounds": "14,203,75,19",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",
@@ -5995,7 +5995,7 @@
             "ClickSound": ""
           },
           "ControlPickUpLabel": {
-            "Bounds": "14,235,49,16",
+            "Bounds": "14,235,50,19",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",
@@ -6101,7 +6101,7 @@
             "ClickSound": ""
           },
           "ControlEnterLabel": {
-            "Bounds": "14,267,36,16",
+            "Bounds": "14,267,37,19",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",
@@ -6207,7 +6207,7 @@
             "ClickSound": ""
           },
           "ControlHotkey1Label": {
-            "Bounds": "14,299,60,16",
+            "Bounds": "14,299,60,19",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",
@@ -6313,7 +6313,7 @@
             "ClickSound": ""
           },
           "ControlHotkey2Label": {
-            "Bounds": "14,331,60,16",
+            "Bounds": "14,331,60,19",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",
@@ -6419,7 +6419,7 @@
             "ClickSound": ""
           },
           "ControlHotkey3Label": {
-            "Bounds": "14,363,60,16",
+            "Bounds": "14,363,60,19",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",
@@ -6525,7 +6525,7 @@
             "ClickSound": ""
           },
           "ControlHotkey4Label": {
-            "Bounds": "14,395,60,16",
+            "Bounds": "14,395,60,19",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",
@@ -6631,7 +6631,7 @@
             "ClickSound": ""
           },
           "ControlHotkey5Label": {
-            "Bounds": "14,427,60,16",
+            "Bounds": "14,427,60,19",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",
@@ -6737,7 +6737,7 @@
             "ClickSound": ""
           },
           "ControlHotkey6Label": {
-            "Bounds": "14,459,60,16",
+            "Bounds": "14,459,60,19",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",
@@ -6843,7 +6843,7 @@
             "ClickSound": ""
           },
           "ControlHotkey7Label": {
-            "Bounds": "14,491,60,16",
+            "Bounds": "14,491,60,19",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",
@@ -6949,7 +6949,7 @@
             "ClickSound": ""
           },
           "ControlHotkey8Label": {
-            "Bounds": "14,523,60,16",
+            "Bounds": "14,523,60,19",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",
@@ -7055,7 +7055,7 @@
             "ClickSound": ""
           },
           "ControlHotkey9Label": {
-            "Bounds": "14,555,60,16",
+            "Bounds": "14,555,60,19",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",
@@ -7161,7 +7161,7 @@
             "ClickSound": ""
           },
           "ControlHotkey0Label": {
-            "Bounds": "14,587,60,16",
+            "Bounds": "14,587,60,19",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",
@@ -7267,7 +7267,7 @@
             "ClickSound": ""
           },
           "ControlScreenshotLabel": {
-            "Bounds": "14,619,70,16",
+            "Bounds": "14,619,72,19",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",
@@ -7373,7 +7373,7 @@
             "ClickSound": ""
           },
           "ControlOpenMenuLabel": {
-            "Bounds": "14,651,72,16",
+            "Bounds": "14,651,72,19",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",
@@ -7479,7 +7479,7 @@
             "ClickSound": ""
           },
           "ControlOpenInventoryLabel": {
-            "Bounds": "14,683,97,16",
+            "Bounds": "14,683,98,19",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",
@@ -7585,7 +7585,7 @@
             "ClickSound": ""
           },
           "ControlOpenQuestsLabel": {
-            "Bounds": "14,715,80,16",
+            "Bounds": "14,715,80,19",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",
@@ -7691,7 +7691,7 @@
             "ClickSound": ""
           },
           "ControlOpenCharacterInfoLabel": {
-            "Bounds": "14,747,124,16",
+            "Bounds": "14,747,126,19",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",
@@ -7797,7 +7797,7 @@
             "ClickSound": ""
           },
           "ControlOpenPartiesLabel": {
-            "Bounds": "14,779,81,16",
+            "Bounds": "14,779,82,19",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",
@@ -7903,7 +7903,7 @@
             "ClickSound": ""
           },
           "ControlOpenSpellsLabel": {
-            "Bounds": "14,811,75,16",
+            "Bounds": "14,811,76,19",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",
@@ -8009,7 +8009,7 @@
             "ClickSound": ""
           },
           "ControlOpenGuildLabel": {
-            "Bounds": "14,843,71,16",
+            "Bounds": "14,843,72,19",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",
@@ -8115,7 +8115,7 @@
             "ClickSound": ""
           },
           "ControlOpenFriendsLabel": {
-            "Bounds": "14,875,84,16",
+            "Bounds": "14,875,85,19",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",
@@ -8221,7 +8221,7 @@
             "ClickSound": ""
           },
           "ControlOpenSettingsLabel": {
-            "Bounds": "14,907,88,16",
+            "Bounds": "14,907,89,19",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",
@@ -8327,7 +8327,7 @@
             "ClickSound": ""
           },
           "ControlOpenDebuggerLabel": {
-            "Bounds": "14,939,96,16",
+            "Bounds": "14,939,98,19",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",
@@ -8433,7 +8433,7 @@
             "ClickSound": ""
           },
           "ControlOpenAdminPanelLabel": {
-            "Bounds": "14,971,115,16",
+            "Bounds": "14,971,116,19",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",
@@ -8539,7 +8539,7 @@
             "ClickSound": ""
           },
           "ControlToggleGuiLabel": {
-            "Bounds": "14,1003,100,16",
+            "Bounds": "14,1003,102,19",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",
@@ -8645,7 +8645,7 @@
             "ClickSound": ""
           },
           "ControlTurnAroundLabel": {
-            "Bounds": "14,1035,122,16",
+            "Bounds": "14,1035,124,19",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",

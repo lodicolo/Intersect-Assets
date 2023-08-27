@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>/home/me/git/AscensionGameDev/assets/main/src/client/Fonts/sourcesanspro_10.spritefont</File>
+    <File>/home/me/git/AscensionGameDev/assets/main/src/client/Fonts/sourcesanspro_12.spritefont</File>
+    <File>/home/me/git/AscensionGameDev/assets/main/src/client/Fonts/sourcesanspro_14.spritefont</File>
+    <File>/home/me/git/AscensionGameDev/assets/main/src/client/Fonts/sourcesanspro_16.spritefont</File>
+    <File>/home/me/git/AscensionGameDev/assets/main/src/client/Fonts/sourcesanspro_18.spritefont</File>
+    <File>/home/me/git/AscensionGameDev/assets/main/src/client/Fonts/sourcesanspro_20.spritefont</File>
+    <File>/home/me/git/AscensionGameDev/assets/main/src/client/Fonts/sourcesanspro_22.spritefont</File>
+    <File>/home/me/git/AscensionGameDev/assets/main/src/client/Fonts/sourcesanspro_24.spritefont</File>
+    <File>/home/me/git/AscensionGameDev/assets/main/src/client/Fonts/sourcesanspro_26.spritefont</File>
+    <File>/home/me/git/AscensionGameDev/assets/main/src/client/Fonts/sourcesanspro_8.spritefont</File>
+    <File>/home/me/git/AscensionGameDev/assets/main/src/client/Fonts/sourcesansproblack_10.spritefont</File>
+    <File>/home/me/git/AscensionGameDev/assets/main/src/client/Fonts/sourcesansproblack_12.spritefont</File>
+    <File>/home/me/git/AscensionGameDev/assets/main/src/client/Fonts/sourcesansproblack_14.spritefont</File>
+    <File>/home/me/git/AscensionGameDev/assets/main/src/client/Fonts/sourcesansproblack_16.spritefont</File>
+    <File>/home/me/git/AscensionGameDev/assets/main/src/client/Fonts/sourcesansproblack_18.spritefont</File>
+    <File>/home/me/git/AscensionGameDev/assets/main/src/client/Fonts/sourcesansproblack_20.spritefont</File>
+    <File>/home/me/git/AscensionGameDev/assets/main/src/client/Fonts/sourcesansproblack_22.spritefont</File>
+    <File>/home/me/git/AscensionGameDev/assets/main/src/client/Fonts/sourcesansproblack_24.spritefont</File>
+    <File>/home/me/git/AscensionGameDev/assets/main/src/client/Fonts/sourcesansproblack_26.spritefont</File>
+    <File>/home/me/git/AscensionGameDev/assets/main/src/client/Fonts/sourcesansproblack_8.spritefont</File>
+    <File>/home/me/git/AscensionGameDev/assets/main/src/client/Shaders/radialgradient.fx</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

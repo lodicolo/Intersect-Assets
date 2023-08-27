@@ -1,5 +1,5 @@
 {
-  "Bounds": "383,363,600,42",
+  "Bounds": "500,429,600,42",
   "Padding": "0,0,0,0",
   "AlignmentEdgeDistances": "0,0,0,0",
   "AlignmentTransform": "0,0",
@@ -23,7 +23,7 @@
   "RightMouseClickSound": null,
   "Children": {
     "AnnouncementLabel": {
-      "Bounds": "299,8,1,26",
+      "Bounds": "299,6,1,30",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",

@@ -1,5 +1,5 @@
 {
-  "Bounds": "1140,366,220,342",
+  "Bounds": "1374,498,220,342",
   "Padding": "0,0,0,0",
   "AlignmentEdgeDistances": "0,0,6,60",
   "AlignmentTransform": "0,0",
@@ -51,7 +51,7 @@
     "MouseDownSound": ""
   },
   "Title": {
-    "Bounds": "0,0,114,31",
+    "Bounds": "0,0,114,34",
     "Padding": "40,7,4,4",
     "AlignmentEdgeDistances": "0,0,0,0",
     "AlignmentTransform": "0,0",
@@ -434,7 +434,9 @@
         "Font": "sourcesansproblack,10",
         "ItemHoverSound": "octave-tap-resonant.wav",
         "ItemClickSound": "octave-tap-warm.wav",
-        "ItemRightClickSound": null
+        "ItemRightClickSound": null,
+        "TextColor": "255,255,255,255",
+        "TextColorOverride": "0,0,0,0"
       },
       "QuestTitle": {
         "Bounds": "-4,6,228,32",
@@ -788,7 +790,7 @@
         }
       },
       "QuestDescriptionTemplate": {
-        "Bounds": "0,0,1,16",
+        "Bounds": "0,0,1,19",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
